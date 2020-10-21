@@ -2,4 +2,4 @@
 
 {% include nav.html %}
 
-{% include team_chart.html %}
+{% include teams_chart.html %}
