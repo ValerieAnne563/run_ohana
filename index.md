@@ -2,7 +2,7 @@
 
 This is a cooperative running community where every mile you log moves your team's marker on a route along the Big Island.
 
-{% include nav.html %}
+{% include preview_nav.html %}
 
 ### Route and Locations
 
