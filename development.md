@@ -17,6 +17,7 @@
 - Division of State Parks, [Hawaii DNR](http://dlnr.hawaii.gov/dsp) and [Hawaii DLNR](https://dlnr.hawaii.gov/dsp/parks/kauai/)
 - https://bigislandhikes.com
 - https://bigislandguide.com
+- https://www.lovebigisland.com
 
 
 ## Roadmap
