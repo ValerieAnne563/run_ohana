@@ -21,7 +21,8 @@ title: Acknowledgements and Roadmap
 - https://bigislandhikes.com
 - https://bigislandguide.com
 - https://www.lovebigisland.com
-
+- https://parkerranch.com
+- [Hawaii magazine](https://www.hawaiimagazine.com)
 
 ## Roadmap
 Fall 2020: Single Coop Run - Preview Release    
