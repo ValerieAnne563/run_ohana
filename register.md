@@ -1,2 +1,4 @@
-{% include register.html %}
+{% include preview_nav.html %}    
 
+
+{% include register.html %}
