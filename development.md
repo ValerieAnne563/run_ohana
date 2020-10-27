@@ -1,3 +1,5 @@
+{% include preview_nav.html %}
+
 ## This page is powered by
 
 <p height=100px>
