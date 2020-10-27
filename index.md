@@ -9,9 +9,9 @@ Teams and Individual participation will launch in 2021.
 
 ### Route and Locations
 
+{% include progress_map.html %}
+
 As you record miles, the team marker moves around Hawaii. A gold marker marks the most recent stop. <br/>
 Green marks previous stops, and Grey stops are those the team has yet to reach.
 
 Check out a description of each stop as the team moves around the course!
-
-{% include progress_map.html %}
