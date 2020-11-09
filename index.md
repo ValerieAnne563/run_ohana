@@ -4,7 +4,8 @@
 
 This is a cooperative running community where every mile you log moves your team's marker on a route along the Big Island.
 
-Starting October 2020, this is the preview edition. Everyone is part of one big team to complete the 431 mile course. <br/>
+The co-op race starts November 2020. Everyone is part of one big team to complete the 431 mile course. <br/>
+A participant may log up to 50 miles towards the overall goal. 
 Teams and Individual participation will launch in 2021.
 
 ### Route and Locations
