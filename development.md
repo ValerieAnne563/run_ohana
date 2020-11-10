@@ -24,6 +24,8 @@
 - [Hawaii magazine](https://www.hawaiimagazine.com)
 - [All Trails](https://www.alltrails.com/hawaii/hawaii)
 
+<div>Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 ## Roadmap
 Fall 2020: Single Coop Run - Preview Release    
 2021: Individual Registrations, Multiple Teams
