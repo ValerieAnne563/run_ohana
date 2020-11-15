@@ -32,3 +32,5 @@ Fall 2020: Single Coop Run - Preview Release
 
 Changes pending:
 -  Remove pin grouping on main map
+
+{% include footer.html %}
