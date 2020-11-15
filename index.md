@@ -1,4 +1,5 @@
 {% include preview_nav.html %}
+[Sign Up](./register)
 
 ## Welcome to Relay Around Hawaii
 
