@@ -16,3 +16,5 @@ As you record miles, the team marker moves around Hawaii. A gold marker marks th
 Green marks previous stops, and Grey stops are those the team has yet to reach.
 
 Check out a description of each stop as the team moves around the course!
+
+{% include footer.html %}    
