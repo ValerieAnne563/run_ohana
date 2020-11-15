@@ -1,3 +1,3 @@
 {% include preview_nav.html %}    
-{% include register.html %}    
+{% include register_form.html %}    
 {% include footer.html %}    
