@@ -1,5 +1,5 @@
 {% include preview_nav.html %}
-[Sign Up](./register)
+
 
 ## Welcome to Relay Around Hawaii
 
@@ -7,6 +7,8 @@ This is a cooperative running community where every mile you log moves your team
 
 The co-op race starts November 2020. Everyone is part of one big team to complete the 431 mile course. <br/>
 A participant may log up to 50 miles towards the overall goal. 
+[Sign Up](./register) to be part of the crew!
+<br/>
 Teams and Individual participation will launch in 2021.
 
 ### Route and Locations
